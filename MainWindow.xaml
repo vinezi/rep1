@@ -10,7 +10,9 @@
         <TextBox x:Name="tb1" HorizontalAlignment="Left" Height="23" Margin="335,130,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.787,1.309"/>
         <TextBox x:Name="tb2" HorizontalAlignment="Left" Height="23" Margin="321,209,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <Label x:Name="lb1" Content="Label" HorizontalAlignment="Left" Margin="273,297,0,0" VerticalAlignment="Top"/>
-        <Image x:Name="img2" HorizontalAlignment="Left" Height="100" Margin="101,53,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.143,-0.231"/>
+        
+        <Image x:Name="masterBranch2" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="109,108,0,0"/>
+
 
     </Grid>
 </Window>
